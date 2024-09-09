@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageSentimentAnalyzerWTemplateFactoryPatterns", "LanguageSentimentAnalyzerWTemplateFactoryPatterns\LanguageSentimentAnalyzerWTemplateFactoryPatterns.csproj", "{C383E132-7800-44A5-ABFF-9FF1CF85F8A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C383E132-7800-44A5-ABFF-9FF1CF85F8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C383E132-7800-44A5-ABFF-9FF1CF85F8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C383E132-7800-44A5-ABFF-9FF1CF85F8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C383E132-7800-44A5-ABFF-9FF1CF85F8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
