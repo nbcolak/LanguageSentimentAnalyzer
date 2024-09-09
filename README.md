@@ -1,4 +1,7 @@
-
+![C#](https://img.shields.io/badge/language-C%23-blue)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-8-blue)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure-Cognitive%20Services-blue)
+![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Natural%20Language-blue)
 
 English:
 
