@@ -2,6 +2,9 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-8-blue)
 ![Azure Cognitive Services](https://img.shields.io/badge/Azure-Cognitive%20Services-blue)
 ![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Natural%20Language-blue)
+![Template Pattern](https://img.shields.io/badge/Design%20Pattern-Command-yellow)  
+![Factory Pattern](https://img.shields.io/badge/Design%20Pattern-Factory-pink)  
+
 
 ### RESTful API Implementation:
 This project uses **RESTful API** to interact with both **Azure Text Analytics** and **Google Cloud Natural Language API** for performing sentiment analysis and language detection.
