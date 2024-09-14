@@ -2,7 +2,7 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-8-green)
 ![Azure Cognitive Services](https://img.shields.io/badge/Azure-Cognitive%20Services-purple)
 ![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Natural%20Language-red)
-![Template Pattern](https://img.shields.io/badge/Design%20Pattern-Command-yellow)  
+![Template Pattern](https://img.shields.io/badge/Design%20Pattern-Template-yellow)  
 ![Factory Pattern](https://img.shields.io/badge/Design%20Pattern-Factory-pink)  
 
 
